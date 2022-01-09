@@ -7,6 +7,16 @@ body{
 p{
     margin-bottom: 25px;
 }
+h2{
+    text-align: center;
+}
+h3{
+   
+}
+.flexible-container{
+    display: flex;
+}
+
 
 .headline-decoration{
     font-family: 'Abril Fatface';
@@ -50,5 +60,14 @@ p{
 
 
 .slide{
-    
+
+}
+
+.mini-box{
+    margin: 5px;
+    padding: 20px;
+}
+.mini-box img{
+    height: 150px;
+    width: 150px;   
 }
