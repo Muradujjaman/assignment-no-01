@@ -1,0 +1,47 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 100px;
+}
+
+.headline-decoration{
+    font-family: 'Abril Fatface';
+    font-family: 'Libre Baskerville', serif;
+    font-size: 60px;
+    border-left: 5px solid #cf5423;
+    padding-left: 5px;
+   
+}
+.headline-part{
+    color: #f18d0a;
+
+}
+
+.top-banner{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#f18c08e3,#ff0000);
+    padding: 8px 40px;
+    border-radius: 5px;
+    color:rgb(255, 255, 255);
+    font-weight: 350;
+    font-size: 15px;
+}
+.mini-paragraph{
+    font-size: 13px;
+}
+.image-container{
+    height: 400px;
+    width: 400px;
+}
+.half-width{
+    width: 50%;
+    padding-right: 70px;
+}
+
+.heading-font{
+   
+}
