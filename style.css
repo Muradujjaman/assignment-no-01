@@ -15,6 +15,7 @@ h3{
 }
 .flexible-container{
     display: flex;
+    margin-right: 10%;
 }
 
 
@@ -64,10 +65,24 @@ h3{
 }
 
 .mini-box{
-    margin: 5px;
-    padding: 20px;
+    margin: 15px;
+    padding: 25px;
+    width: 25%;
+    height: 25%;
 }
 .mini-box img{
     height: 150px;
     width: 150px;   
+}
+#mission-area{
+    background-color: #e4bcbc6c;
+    border-radius: 25px;
+}
+#vision-area{
+    background-color: #dbc17963;
+    border-radius: 25px;
+}
+#goals-area{
+    background-color: #beda2042;
+    border-radius: 25px;
 }
